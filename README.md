@@ -26,7 +26,7 @@ Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Warning
 * Step 7: Model Comparison and Conclusion
 
 ## Observations
-- ### Observations based on Exploratory Data Analysis (EDA)
+- ### Observations based on Exploratory Data Analysis (EDA) are as follows:
 The demand is the maximum for following feature values:
 
 **Categorical Feature**
