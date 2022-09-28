@@ -25,7 +25,7 @@ Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Warning
 * Step 6: Model Prediction on Test Data
 * Step 7: Model Comparison and Conclusion
 
-## Conclusions
+## Observations
 - ### Observations based on Exploratory Data Analysis (EDA)
 The demand is the maximum for following feature values:
 
